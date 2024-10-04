@@ -2,7 +2,7 @@
 
 My name is **Nathan Bergmann**, and I am from **Joinville, SC**.  
 I'm studying **Software Engineering** at **Univille**.  
-Currently, I am enhancing my knowledge, mainly in ![C#](https://img.shields.io/badge/-C%23-blue), ![Java](https://img.shields.io/badge/-Java-red), ![AWS Cloud](https://img.shields.io/badge/-AWS-orange), and I'm also exploring Front-end development with ![Vue](https://img.shields.io/badge/-Vue-green) and ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow).
+Currently, I am enhancing my knowledge, mainly in ![C#](https://img.shields.io/badge/-C%23-blue), ![Java](https://img.shields.io/badge/-Java-red), ![AWS Cloud](https://img.shields.io/badge/-AWS-orange), and I'm also exploring Front-end development with ![Vue](https://img.shields.io/badge/-Vue-green)
 
 I am a **Microsoft Learn Student Ambassador** and a **Junior Full Stack Developer**.
 
